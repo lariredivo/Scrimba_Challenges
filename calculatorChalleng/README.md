@@ -1,1 +1,1 @@
-Challenge from Scrimba to create a simple calculator.
+Challenge from Scrimba (https://scrimba.com/) to create a simple calculator.
