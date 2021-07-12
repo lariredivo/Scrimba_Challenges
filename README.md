@@ -1,2 +1,2 @@
 # counterApp
-Challenge from Scrimb (https://scrimba.com/) to learn JavaScript.
+Challenge from Scrimba (https://scrimba.com/) to learn JavaScript.
